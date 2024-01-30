@@ -10,3 +10,6 @@ python package template
 │   └── _version.py
 └── main.py
 ```
+
+### python　version
+python 3.11
