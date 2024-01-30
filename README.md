@@ -11,5 +11,5 @@ python package template
 └── main.py
 ```
 
-### python　version
+### python version
 python 3.11
